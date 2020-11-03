@@ -1,0 +1,31 @@
+nav,.img1{
+    margin-bottom: 50px;
+}
+.box,nav{
+    margin-right: auto;
+    margin-left: auto; 
+    width: 60%;
+    border: 1px solid black;
+    text-align: center;
+     padding: 10px;
+}
+a{
+    margin-right: 15px;
+    font-weight: bold;
+}
+.box img,article{
+    width: 30%;
+    margin-bottom: 50px;
+}
+article{
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+h2{
+    font-weight: bold;
+}
+textarea{
+    resize: none;
+    margin-bottom: 15px;
+}
